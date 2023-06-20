@@ -313,7 +313,7 @@ We can access all the key numbers of the keyboard using different event listener
 
 ---
 
-🌕 You are so special, you are progressing everyday. Now, you knew how handle any kind of DOM events. . You are left with only seven days to your way to greatness. Now do some exercises for your brain and for your muscle.
+🌕 You are so special, you are progressing everyday. Now, you know how to handle any kind of DOM events. . You are left with only seven days to your way to greatness. Now do some exercises for your brain and for your muscle.
 
 ## Exercises
 
